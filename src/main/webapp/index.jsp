@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ n<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +13,7 @@
       <h1 class="text-center">i am Learning Jenkins CI/CD</h1>
       <h2 class="text-center">using poll scm </h2>
       <h2 class="text-center">first webpage </h2>
-      <h3 class="added poll scm in configuration" </h3>
+      <h3 class="text-center">added poll scm in configuration </h3>
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
 </body>
